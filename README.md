@@ -5,4 +5,4 @@ My Solutions to Hacker Rank Problems
 
 |Problem|Solution|Date|
 |------|------|------------|
-|Solve Me First      |      |            |
+|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)     |      |            |
