@@ -1,5 +1,5 @@
-# Hacker-Rank
-My Solutions to Hacker Rank Problems
+# Hacker-Rank (node.js)
+My Javascript Solutions to Hacker Rank Problems
 
 ## Algorithms - WarmUp
 
