@@ -10,3 +10,5 @@ My Solutions to Hacker Rank Problems
 |[Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|[compare-the-triplets.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/compare-the-triplets.js) | 12/07/17 |
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [a-very-big-sum.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/a-very-big-sum.js) | 12/07/17 |
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[diagonal-difference.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/diagonal-difference.js)| 12/07/17|
+|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|[plus-minus.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/plus-minus.js)|13/07/17|
+|[Staircase](https://www.hackerrank.com/challenges/staircase)|[staircase.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/staircase.js)|13/07/17|
