@@ -14,3 +14,4 @@ My Javascript Solutions to Hacker Rank Problems
 |[Staircase](https://www.hackerrank.com/challenges/staircase)|[staircase.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/staircase.js)|13/07/17|
 |[Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[mini-max-sum.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/mini-max-sum.js)|14/07/17|
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|[birthday-cake-candles.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/birthday-cake-candles.js)|14/07/17|
+|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|[time-conversion.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/time-conversion.js)|16/07/17|
