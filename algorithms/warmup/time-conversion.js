@@ -18,8 +18,6 @@ function readLine() {
     return input_stdin_array[input_currentline++];
 }
 
-/////////////// ignore above this line ////////////////////
-
 function timeConversion(s) {
     // Complete this function
     var hour = s.slice(0, 2)
