@@ -18,8 +18,6 @@ function readLine() {
     return input_stdin_array[input_currentline++];
 }
 
-/////////////// ignore above this line ////////////////////
-
 function main() {
     var n = parseInt(readLine());
     for(var i=1; i<=n; i++) {
