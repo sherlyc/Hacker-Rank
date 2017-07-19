@@ -37,13 +37,13 @@ function main() {
     countApple=0; 
     countOrange=0;
 
-     apple.map(function(el){
+    apple.map(function(el){
         ap = a + el
         if(ap >= s && ap <= t) {
            countApple ++
         }
     })
-     orange.map(function(el){
+    orange.map(function(el){
         or = b + el
         if(or >=s && or <=t) {
             countOrange ++
