@@ -15,3 +15,10 @@ My Javascript Solutions to Hacker Rank Problems
 |[Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[mini-max-sum.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/mini-max-sum.js)|14/07/17|
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|[birthday-cake-candles.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/birthday-cake-candles.js)|14/07/17|
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|[time-conversion.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/warmup/time-conversion.js)|16/07/17|
+
+## Algorithms - Implementation
+
+|Problem|Solution|Date|
+|----|----|----|
+|[Grading Students](https://www.hackerrank.com/challenges/grading)|[grading-students.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/implementation/grading-students.js)|19/07/2017|
+|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|[apple-and-orange.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/implementation/apple-and-orange.js)|19/07/2017|
