@@ -22,3 +22,4 @@ My Javascript Solutions to Hacker Rank Problems
 |----|----|----|
 |[Grading Students](https://www.hackerrank.com/challenges/grading)|[grading-students.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/implementation/grading-students.js)|19/07/2017|
 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|[apple-and-orange.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/implementation/apple-and-orange.js)|19/07/2017|
+|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|[kangaroo.js](https://github.com/sherlyc/Hacker-Rank/blob/master/algorithms/implementation/kangaroo.js)|14/08/2017
